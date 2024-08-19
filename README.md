@@ -1,5 +1,7 @@
 ![mcken-vince's Stats](https://github-readme-stats.vercel.app/api?username=mcken-vince&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,graphql,kafka,sequelize,tailwind,python,azure,github,nodejs,html,css,materialui)](https://skillicons.dev)
 
 <!--
 
